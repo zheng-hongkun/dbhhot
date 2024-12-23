@@ -3,3 +3,5 @@ print('hello word2')
 
 print('this is test')
 print('this is new func')
+
+print('this is func2')
